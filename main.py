@@ -13,8 +13,9 @@ for i in range(10):
 
 
 #Person 2 (add what instructions say) || Person 4 change before rebase to cause a merge conflict
-i = 7
-if i % 3 == 0:
-  print("divisble by 3")
+i = 2
+if i % 4 == 0:
+  print("divisble by 4")
 else:
-  print("not")
+  print("not divisble by 4")
+
