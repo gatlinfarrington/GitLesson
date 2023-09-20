@@ -13,4 +13,8 @@ for i in range(10):
 
 
 #Person 2 (add what instructions say) || Person 4 change before rebase to cause a merge conflict
-
+i = 2
+if i % 2 == 0:
+  print("even")
+else:
+  print("odd")
